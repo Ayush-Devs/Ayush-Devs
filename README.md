@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ayush-Devs/Ayush-Devs/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ###
